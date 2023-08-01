@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "title": "Bakso Tulang Manusia Super",
+      "price": "$120",
+      "id": 1
+    },
+    {
+      "title": "Steak Paha Gajah",
+      "price": "$453",
+      "id": 2
+    },
+    {
+      "title": "Brutu Onta Merah",
+      "price": "$4311",
+      "id": 3
+    }
+  ]
+}
